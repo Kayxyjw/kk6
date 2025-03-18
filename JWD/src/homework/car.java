@@ -2,7 +2,11 @@ package homework;
 class C4 {
 	  int speed;
 	  double regularPrice;
-	  String color;
+	  String color; 
+	  private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 
 	  
 	  
